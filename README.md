@@ -1,1 +1,8 @@
 # emoji-copy
+
+quick copy 
+
+
+```
+💅
+```
